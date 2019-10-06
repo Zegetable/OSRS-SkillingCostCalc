@@ -1,0 +1,40 @@
+==**HERBLORE**==
+
+==**PRAYER**==	XPs are multed
+
+big bones	=52.5xp
+id=532
+
+dragon bones	=252xp
+id=536
+
+drake bones	=280xp
+id=22783
+
+wyrm bones	=175xp
+id=22780
+
+wyvern bones	=252xp
+id=6812
+
+animate bloodveld	=1040xp
+2 souls   id=566
+2 nature  id=561
+1 blood   id=565
+bv head   id=13496
+
+animate demon		=1170xp
+2 souls   id=566
+4 nature  id=561
+1 blood   id=565
+dem head  id=13502
+
+animate dragon		=1560xp
+4 souls   id=566
+4 nature  id=561
+1 blood   id=565
+drgn head id=13511
+
+
+
+
